@@ -1,0 +1,1 @@
+#include "mykinect.h"
